@@ -1,7 +1,0 @@
-matplotlib==3.8.4
-contourpy==1.2.1
-cycler==0.12.1
-fonttools==4.60.2
-kiwisolver==1.4.7
-pyparsing==3.3.2
-pillow==11.3.0

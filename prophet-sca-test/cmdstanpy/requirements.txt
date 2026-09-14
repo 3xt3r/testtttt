@@ -1,2 +1,0 @@
-cmdstanpy==1.3.0
-stanio==0.5.1
