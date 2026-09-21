@@ -1,0 +1,7 @@
+results/*
+!results/.gitkeep
+cases/hash-and-archives/*.jar
+cases/hash-and-archives/*.whl
+cases/hash-and-archives/*.tgz
+cases/hash-and-archives/*.min.js
+cases/cpp-build/build/

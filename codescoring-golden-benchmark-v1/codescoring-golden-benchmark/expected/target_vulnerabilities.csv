@@ -1,0 +1,15 @@
+fixture,ecosystem,name,version,vulnerability,expected_present,note
+python-vulnerable,pypi,PyYAML,5.3.1,CVE-2020-14343,true,PyYAML before 5.4
+python-fixed,pypi,PyYAML,5.4,CVE-2020-14343,false,patched at 5.4
+python-vulnerable,pypi,urllib3,1.26.4,CVE-2021-33503,true,affected before 1.26.5 in affected range
+python-fixed,pypi,urllib3,1.26.5,CVE-2021-33503,false,patched at 1.26.5
+npm-vulnerable,npm,lodash,4.17.20,CVE-2021-23337,true,affected before 4.17.21
+npm-fixed,npm,lodash,4.18.0,CVE-2021-23337,false,well above target fix
+npm-vulnerable,npm,minimist,0.0.8,CVE-2021-44906,true,affected below 0.2.4
+npm-fixed,npm,minimist,1.2.6,CVE-2021-44906,false,patched at 1.2.6
+go-vulnerable,golang,golang.org/x/text,0.3.7,CVE-2022-32149,true,affected before v0.3.8
+go-fixed,golang,golang.org/x/text,0.3.8,CVE-2022-32149,false,patched at v0.3.8
+maven-vulnerable,maven,org.apache.logging.log4j:log4j-core,2.14.1,CVE-2021-44228,true,Log4Shell
+maven-fixed,maven,org.apache.logging.log4j:log4j-core,2.17.1,CVE-2021-44228,false,target CVE fixed
+maven-vulnerable,maven,org.apache.commons:commons-text,1.9,CVE-2022-42889,true,affected before 1.10.0
+maven-fixed,maven,org.apache.commons:commons-text,1.10.0,CVE-2022-42889,false,patched at 1.10.0

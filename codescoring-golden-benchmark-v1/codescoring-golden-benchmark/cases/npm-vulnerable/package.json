@@ -1,0 +1,9 @@
+{
+  "name": "codescoring-benchmark-npm-vulnerable",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.17.20",
+    "mkdirp": "0.5.1"
+  }
+}

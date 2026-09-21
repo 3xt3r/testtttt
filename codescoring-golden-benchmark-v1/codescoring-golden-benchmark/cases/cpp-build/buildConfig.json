@@ -1,0 +1,13 @@
+{
+  "commands": [
+    {
+      "command": "cmake",
+      "flags_and_args": ".."
+    },
+    {
+      "command": "cmake",
+      "flags_and_args": "--build . --clean-first",
+      "do_analyze": true
+    }
+  ]
+}

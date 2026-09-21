@@ -1,0 +1,9 @@
+{
+  "name": "codescoring-benchmark-npm-fixed",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.18.0",
+    "mkdirp": "0.5.6"
+  }
+}
