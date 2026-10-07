@@ -1,3 +1,0 @@
-fixture,ecosystem,name,version,note
-docker,pypi,PyYAML,5.3.1,pinned inside image
-docker,pypi,urllib3,1.26.4,pinned inside image

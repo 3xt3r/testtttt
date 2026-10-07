@@ -1,5 +1,0 @@
-fixture,name,version_policy,note
-cpp-build,zlib,any,version depends on host build environment
-cpp-build,openssl,any,version depends on host build environment
-docker,PyYAML,5.3.1,pinned language package
-docker,urllib3,1.26.4,pinned language package

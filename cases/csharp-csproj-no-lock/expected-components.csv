@@ -1,0 +1,4 @@
+case,ecosystem,name,version,purl,relation,expected
+csharp-csproj-no-lock,nuget,Newtonsoft.Json,12.0.3,pkg:nuget/Newtonsoft.Json@12.0.3,direct,true
+csharp-csproj-no-lock,nuget,Serilog,2.10.0,pkg:nuget/Serilog@2.10.0,direct,true
+csharp-csproj-no-lock,nuget,YamlDotNet,11.2.1,pkg:nuget/YamlDotNet@11.2.1,direct,true

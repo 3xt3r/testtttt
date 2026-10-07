@@ -1,4 +1,0 @@
-fixture,ecosystem,name,version,note
-hash-and-archives,maven,org.apache.logging.log4j:log4j-core,2.14.1,JAR archive
-hash-and-archives,pypi,urllib3,1.26.4,Wheel archive/hash
-hash-and-archives,npm,lodash,4.17.20,tgz and lodash.min.js direct inclusion
